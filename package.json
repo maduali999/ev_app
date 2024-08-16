@@ -1,0 +1,24 @@
+{
+  "name": "ev_backend",
+  "version": "1.0.0",
+  "description": "EV backend",
+  "main": "index.js",
+  "dependencies": {
+    "@angular/cli": "^17.0.9",
+    "corepack": "^0.22.0",
+    "cors": "^2.8.5",
+    "date-fns": "^3.3.1",
+    "express": "^4.19.2",
+    "git": "^0.1.5",
+    "morgan": "^1.10.0",
+    "nodejs": "file:",
+    "npm": "^10.2.3",
+    "pg": "^8.11.3",
+    "simple-encryptor": "^4.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
